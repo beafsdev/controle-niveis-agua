@@ -39,12 +39,16 @@ Depois, execute o arquivo:
 python controle_niveis_agua.py
 ```
 
+
 ## 🧪 Teste do projeto
 
-O código foi executado no Google Colab, com a instalação da biblioteca Colorama e a exibição das cinco mensagens do reservatório.
+O programa foi executado no Google Colab após a instalação da biblioteca Colorama. O teste exibiu as cinco mensagens correspondentes aos níveis do reservatório.
 
-O print do teste será adicionado a este repositório.
+### Instalação da biblioteca
 
-## 📚 Aprendizados
+![Instalação do Colorama](Screenshot_2026-10-19-10-56-08-907_com.android.chrome.jpg)
 
-Este projeto foi desenvolvido para praticar listas, funções, estruturas condicionais, laços de repetição e uso de bibliotecas em Python.
+### Execução do programa
+
+![Execução do código](Screenshot_2026-10-19-10-56-15-974_com.android.chrome.jpg)
+
